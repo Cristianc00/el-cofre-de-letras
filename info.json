@@ -1,0 +1,17 @@
+🧾 info.json
+{
+  "cofre-de-letras": {
+    "nombre": "Cofre de letras",
+    "descripción": "Juego interactivo en el que enseña la formación de palabras mediante letras aleatorias.",
+    "instrucciones": [
+      "Utiliza el mouse para elegir las letras",
+      "Cuando esté formada la palabra, le damos click a enviar palabra",
+      "En caso de error, le damos a la opción de borrar"
+    ],
+    "temas": [
+      "Formación de palabras",
+      "letras",
+    ],
+    "url": "https://game.1001problemas.com"
+  }
+}
